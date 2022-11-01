@@ -1,0 +1,13 @@
+comandos git:
+
+dir = Listar itens que estão na pasta
+
+cd .. = voltar um nivel
+
+cd / = avaçar um nivel
+
+clear ou ctrl + l = limpar terminal
+
+mkdir = criar uma pasta.
+
+rm -rf = exclui um projeto
